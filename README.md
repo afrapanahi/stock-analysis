@@ -5,8 +5,8 @@ In this project, we are using VBA to analyze and compare the performance of sele
 Comparing the performance of the selected set of stocks between years 2017 and 2019 indicate that in 2017, only 1 stock (TERP) had a negative return (-7.2 %). The rest had positive returns with most of them above 50 % but in 2018 only 2 stocks had positive return and the rest decreased significantly
 (See figures below)
 
-![2017 stocks](/Resources/stocks2017.png?raw=true "2017 stocks")
-![2018 stocks](/Resources/stocks2018.png?raw=true "2018 stocks")
+![2017 stocks](/Resources/stocks_2017.png?raw=true "2017 stocks")
+![2018 stocks](/Resources/stocks_2018.png?raw=true "2018 stocks")
 
 The refactoring of the code led to a significant decrease in the performance time. The original code needed about 0.8 second to perform the task (See figures below)
 
